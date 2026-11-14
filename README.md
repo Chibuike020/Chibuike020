@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Chibuike020
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning cyber security.
+- 👋 Hi, I’m Ibenye Chibuike 
+- 👀 I’m interested in software development 
+- 🌱 I’m currently learning frontend development 
 - 💞️ I’m looking to collaborate on any type of website development.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
