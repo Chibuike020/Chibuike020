@@ -10,7 +10,7 @@
 
 ### Connect with me
 - LinkedIn: www.linkedin.com/in/chibuike-ibenye-641552449
-- X: pilotplantdavid
+- X: https://x.com/pilotplantdavid
 
 ### A little about me
 I'm a Chemical Engineering student with a growing passion for 
