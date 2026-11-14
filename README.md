@@ -1,12 +1,21 @@
-- 👋 Hi, I’m Ibenye Chibuike 
-- 👀 I’m interested in software development 
-- 🌱 I’m currently learning frontend development 
-- 💞️ I’m looking to collaborate on any type of website development.
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Ibenye Chibuike 👋
 
-<!---
-Chibuike020/Chibuike020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Aspiring Software Developer | Chemical Engineering Student
+
+- 👀 I'm interested in software development and technology.
+- 🌱 I'm currently learning Frontend Development and Python.
+- 💻 I'm building projects and documenting my coding journey.
+- 🤝 I'm open to collaborating on website development projects.
+- 📍 Based in Nigeria.
+
+### Connect with me
+- LinkedIn: www.linkedin.com/in/chibuike-ibenye-641552449
+- X: pilotplantdavid
+
+### A little about me
+I'm a Chemical Engineering student with a growing passion for 
+software development. I enjoy learning new technologies, 
+solving problems, and building things with code.
+
+---
+*Learning, building, and getting better every day.*
